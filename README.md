@@ -1,4 +1,4 @@
-# French version of the English RTE-3 dataset (RTE3)
+# French version of the English RTE-3 dataset (RTE3-FR)
 
 The present RTE3-FR dataset is the French translation of the Textual Entailment English dataset used in the RTE-3 Challenge (https://nlp.stanford.edu/RTE3-pilot/).
 
