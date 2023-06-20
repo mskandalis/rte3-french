@@ -9,3 +9,7 @@ The dataset is annotated for a 3-way task with the following labels: entailment 
 RTE3-FR is available in XML and TSV format.
 
 It is also available on huggingface.co as a [monolingual French dataset](https://huggingface.co/datasets/maximoss/rte3-french) (same as here) or as part of a [multilingual dataset containing all manually translated versions of RTE-3 dataset](https://huggingface.co/datasets/maximoss/rte3-multi). 
+
+# Cite
+
+TBA
