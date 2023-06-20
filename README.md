@@ -7,3 +7,5 @@ Like its English counterpart, the French RTE-3 dataset is composed of a developm
 The dataset is annotated for a 3-way task with the following labels: entailment (0), neutral (1), contradiction (2). 
 
 RTE3-FR is available in XML and TSV format.
+
+It is also available on [huggingface.co](https://huggingface.co/datasets/maximoss/rte3-french).
