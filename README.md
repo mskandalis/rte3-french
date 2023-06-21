@@ -14,8 +14,8 @@ It is also available on huggingface.co as a [monolingual French dataset](https:/
 
 ```
 import pandas as pd
-dev = pd.read_csv("./RTE3-FR-dev-set-3class.tsv", sep='\t') # test = pd.read_csv("./RTE3-FR-test-set-3class.tsv", sep='\t')
-print(dev) # print(test)
+dev = pd.read_csv("./RTE3-FR-dev-set-3class.tsv", sep='\t') #test = pd.read_csv("./RTE3-FR-test-set-3class.tsv", sep='\t')
+print(dev) #print(test)
 ```
 
 # Cite
