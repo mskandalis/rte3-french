@@ -10,6 +10,14 @@ RTE3-FR is available in XML and TSV format.
 
 It is also available on huggingface.co as a [monolingual French dataset](https://huggingface.co/datasets/maximoss/rte3-french) (same as here) or as part of a [multilingual dataset containing all manually translated versions of RTE-3 dataset](https://huggingface.co/datasets/maximoss/rte3-multi). 
 
+# How to use in python
+
+```
+import pandas as pd
+dev = pd.read_csv("./RTE3-FR-dev-set-3class.tsv", sep='\t') # test = pd.read_csv("./RTE3-FR-test-set-3class.tsv", sep='\t')
+print(dev) # print(test)
+```
+
 # Cite
 
 TBA
