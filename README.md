@@ -25,3 +25,7 @@ print(test)
 # Cite
 
 TBA
+
+# Acknowledgements
+
+This work was supported by the French Defence Innovation Agency (AID) of the Directorate General of Armament (DGA) of the French Ministry of Armed Forces, and by the ICO, _Institut Cybersécurité Occitanie_, funded by Région Occitanie, France.
