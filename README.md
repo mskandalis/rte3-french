@@ -24,7 +24,10 @@ print(test)
 
 # Cite
 
-TBA
+**BibTex**
+````BibTeX
+````
+**ACL**
 
 # Acknowledgements
 
