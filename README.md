@@ -30,7 +30,7 @@ TBA
 ````
 **ACL**
 
-TBA
+Maximos Skandalis, Richard Moot, Christian Retoré, and Simon Robillard. 2024. *New datasets for automatic detection of textual entailment and of contradictions between sentences in French*. 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Turin, Italy. European Language Resources Association (ELRA) and International Committee on Computational Linguistics (ICCL).
 
 # Acknowledgements
 
