@@ -18,7 +18,7 @@ import pandas as pd
 dev = pd.read_csv("./RTE3-FR-dev-set-3class.tsv", sep='\t')
 print(dev)
 
-test = pd.read_csv("./RTE3-FR-test-set-3class.tsv", sep='\t')
+test = pd.read_csv("./RTE3-FR-test-gold-3class.tsv", sep='\t')
 print(test)
 ```
 
